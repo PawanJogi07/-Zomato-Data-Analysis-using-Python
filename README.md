@@ -8,6 +8,8 @@ The analysis helps understand restaurant ratings, online delivery trends, countr
 
 ---
 
+ # Live Link -- https://github.com/PawanJogi07/-Zomato-Data-Analysis-using-Python/blob/main/Zomato%20EDA.ipynb
+
 ## 🚀 Objectives
 
 * Perform Data Cleaning
